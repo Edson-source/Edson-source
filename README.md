@@ -1,6 +1,6 @@
 <h1 align="center">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, meu nome é Edson</h1>
 <h3 align="center">Um estudante de Engenharia de Computação iniciando na programação</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=maykbrito" alt="maykbrito" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=edson-source" alt="edson-source" /> </p>
 
 - 🌱 Buscando aprendizado aprofundado em C e C++;
 
