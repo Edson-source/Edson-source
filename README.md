@@ -1,6 +1,6 @@
 <h1 align="center">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, meu nome é Edson</h1>
 <h3 align="center">Um estudante de Engenharia de Computação aprendendo na programação</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=edson-source" alt="edson-source" /> </p>
+
 
 - 🌱 Buscando aprendizado aprofundado em C e C++;
 
@@ -24,3 +24,6 @@
 <a href="https://linkedin.com/in/edson-martins" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="maykbrito" height="20" width="20" /></a>
 <a href="https://instagram.com/edsonney10_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="maykbrito" height="20" width="20" /></a>
 </p>
+
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=edson-source" alt="edson-source" /> </p>
