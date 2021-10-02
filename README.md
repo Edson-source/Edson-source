@@ -4,6 +4,8 @@
 
 - 🌱 Buscando aprendizado aprofundado em C e C++;
 
+- ⚡ Conhecendo um pouco mais da eletronica básica
+
 - 📫 Contato **edsonneyjr@gmail.com**
 
 - ⚡ Cursando Engenharia de Computação - UFSC
