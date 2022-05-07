@@ -1,5 +1,5 @@
 <h1 align="center">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, meu nome é Edson</h1>
-<h3 align="center">Um estudante de Engenharia de Computação aprendendo na programação</h3>
+<h3 align="center">Um estudante de Engenharia de Computação aprendendo na arte da programação</h3>
 
 
 - 🌱 Buscando aprendizado aprofundado em C e C++;
