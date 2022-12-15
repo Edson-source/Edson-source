@@ -10,7 +10,7 @@
 
 - ⚡ Cursando Engenharia de Computação - UFSC
 
-- 💬 Conhecimento em **HTML, CSS, JavaScript, C, C++, NODE, SQL, Python**
+- 💬 Conhecimento em **HTML, CSS, JavaScript, C, C++, FreeRTOS, NODE, SQL, Python**
 
 <p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain-wordmark.svg" alt="css3"  width="20" height="20"/>
