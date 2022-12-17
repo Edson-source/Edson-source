@@ -30,6 +30,7 @@
 ### Tecnologias que estou estudando atualmente 💻
  
  - EAGLE e Inkscape para projetar placas de circuito impresso
+ - Soldagem de componentes eletrônicos
 
 ### 📫 Contato
 
