@@ -27,6 +27,10 @@
 <a href="https://instagram.com/edsonney10_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="maykbrito" height="20" width="20" /></a>
 </p>
 
+### Tecnologias que estou estudando atualmente 💻
+ 
+ - EAGLE e Inkscape para projetar placas de circuito impresso
+
 ### 📫 Contato
 
 
