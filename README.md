@@ -2,11 +2,9 @@
 <h3 align="center">Um estudante de Engenharia de Computação aprendendo na arte da programação</h3>
 
 
-- 🌱 Buscando aprendizado aprofundado em C e C++;
+- 🌱 Buscando aprendizado aprofundado em C e C++ e IoT;
 
 - ⚡ Conhecendo um pouco mais da eletronica básica
-
-- 📫 Contato **edsonneyjr@gmail.com**
 
 - ⚡ Cursando Engenharia de Computação - UFSC
 
@@ -27,5 +25,13 @@
 <a href="https://instagram.com/edsonney10_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="maykbrito" height="20" width="20" /></a>
 </p>
 
+### 📫 Contato
+
+
+[![Whatsapp Badge](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/554899377583)
+[![Linktree Badge](https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/edsonnmj)
+[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/edson_ney10/?hl=pt-br)
+  <a href="https://www.linkedin.com/in/edson-martins-183395210/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=edson-source" alt="edson-source" /> </p>
