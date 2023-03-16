@@ -31,6 +31,7 @@
  
  - Altium Design para projetar placas de circuito impresso
  - Soldagem de componentes eletrônicos
+ - HDL
 
 ### 📫 Contato
 
