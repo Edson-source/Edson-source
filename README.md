@@ -1,4 +1,4 @@
-<h1 align="center">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, meu nome é Edson</h1>
+<h1 align="center">Olá, meu nome é Edson</h1>
 <h3 align="center">Um estudante de Engenharia de Computação aprendendo na arte da programação</h3>
 
 
@@ -32,6 +32,7 @@
  - Altium Design para projetar placas de circuito impresso
  - Soldagem de componentes eletrônicos
  - Hardware Description Language
+ - Modelagem 3D em SolidWorks
 
 ### 📫 Contato
 
