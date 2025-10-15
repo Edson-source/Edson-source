@@ -44,6 +44,7 @@
   <a href="https://www.linkedin.com/in/edson-martins-183395210/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=edson-source" alt="edson-source" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=edson-source" alt="edson-source" /> </p> -->
+
 
 
