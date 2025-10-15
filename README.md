@@ -1,12 +1,12 @@
 <h1 align="center">Olá, meu nome é Edson</h1>
-<h3 align="center">Um estudante de Engenharia de Computação aprendendo na arte da programação</h3>
+<h3 align="center">Um Engenheiro de Computação aprendendo a arte da programação embarcada</h3>
 
 
-- 🌱 Buscando aprendizado aprofundado em C e C++ e IoT;
+- 🌱 Buscando aprendizado aprofundado em C/C++, IoT e sistemas embarcados;
 
 - ⚡ Conhecendo um pouco mais da eletronica básica
 
-- 💻 Cursando Engenharia de Computação - UFSC
+- 💻 Formado em Engenharia de Computação - UFSC
 
 - <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> Membro da equipe de robótica QuantumTeam
 
@@ -29,10 +29,11 @@
 
 ### Tecnologias que estou estudando atualmente 💻
  
- - Altium Design para projetar placas de circuito impresso
+ - Desenvolvimento de placas de circuito impresso em Altium Designer
+ - Desenhos técnicos
  - Soldagem de componentes eletrônicos
- - Hardware Description Language
  - Modelagem 3D em SolidWorks
+ - Desenvolvimento de códigos para STM32
 
 ### 📫 Contato
 
@@ -44,3 +45,4 @@
   
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=edson-source" alt="edson-source" /> </p>
+
