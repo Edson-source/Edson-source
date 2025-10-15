@@ -8,7 +8,7 @@
 
 - 💻 Formado em Engenharia de Computação - UFSC
 
-- <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> Membro da equipe de robótica QuantumTeam
+- <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> Ex-membro da equipe de competição de robótica QuantumTeam
 
 - 💬 Conhecimento em **HTML, CSS, JavaScript, C, C++, FreeRTOS, NODE, SQL, Python**
 
@@ -45,4 +45,5 @@
   
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=edson-source" alt="edson-source" /> </p>
+
 
