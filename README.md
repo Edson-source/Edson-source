@@ -21,11 +21,6 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="20" height="20"/></p>
 </p>
 
-<p align="center">
-<a href="https://linkedin.com/in/edson-martins" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="maykbrito" height="20" width="20" /></a>
-<a href="https://instagram.com/edsonney10_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="maykbrito" height="20" width="20" /></a>
-</p>
-
 ### Tecnologias que estou estudando atualmente 💻
  
  - Desenvolvimento de placas de circuito impresso em Altium Designer
