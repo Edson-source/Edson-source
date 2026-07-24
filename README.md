@@ -22,10 +22,6 @@
 <img src="https://github-readme-stats.vercel.app/api?username=edson-source&show_icons=true" alt="edson-source"/> 
 </p>
 
-<p align="center">
-<a href="https://linkedin.com/in/edson-martins" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="maykbrito" height="20" width="20" /></a>
-<a href="https://instagram.com/edsonney10_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="maykbrito" height="20" width="20" /></a>
-</p>
 
 ### Tecnologias que estou estudando atualmente 💻
  
